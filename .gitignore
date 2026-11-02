@@ -1,0 +1,18 @@
+# Keep only original research notes, public metadata, and inspection source.
+*.cache
+*.bin
+*.sig
+*.fw
+*.exe
+*.dll
+*.asar
+*.zip
+*.log
+*.har
+*.saz
+*.pcap*
+auth.ini
+.env*
+node_modules/
+__pycache__/
+private/
