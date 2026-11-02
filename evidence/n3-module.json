@@ -1,0 +1,21 @@
+{
+  "file_sha256": "8ab8884075939fec7339dc48e439789e416ff3862d9acd43726190834b7a872c",
+  "byte_length": 295949920,
+  "magic": "IM*H",
+  "header_version": 2,
+  "header_size": 224,
+  "signature_size": 384,
+  "payload_size": 295949312,
+  "chunk_count": 1,
+  "module": "2805",
+  "type": "ZV30",
+  "auth_key_id": "PRAK",
+  "enc_key_id": "UFIE",
+  "module_version_hex": "0x0a00430f",
+  "date_field_hex": "0x20261019",
+  "payload_sha256": "68834b017b2f012a43acdeaaa370f15a8e470090eb2bc86b307215be083d77c1",
+  "payload_digest_matches_header": true,
+  "signature_validation": "not_performed",
+  "decryption": "not_performed",
+  "product_identity": "not_authenticated"
+}
